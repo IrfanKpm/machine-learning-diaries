@@ -1,8 +1,11 @@
-# Machine-Learning-Notes-1
+# Machine-Learning-Notes
 
-This repository contains my notes and code examples from the book **"Introduction to Machine Learning with Python"** by Andreas C. Müller and Sarah Guido.
+This repository contains my notes and code examples from various sources, including:
+- External sources such as YouTube tutorials and other educational materials
+- "Introduction to Machine Learning with Python" by Andreas C. Müller and Sarah Guido
+- "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron
+- "Advanced Deep Learning with TensorFlow 2 and Keras (Second Edition)" by Rowel Atienza
 
-![book-cover](https://m.media-amazon.com/images/I/51wF9ONArKL.jpg)
 
 ---
 
