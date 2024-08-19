@@ -1,4 +1,4 @@
-# Machine-Learning-Notes
+# Machine Learning Diaries
 
 This repository contains my notes and code examples from various sources, including:
 - External sources such as YouTube tutorials and other educational materials
